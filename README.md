@@ -1,8 +1,11 @@
 hide-posts
 ==========
 
-* copy-paste content of `hide.js` and paste it in JS developer console of your browser to hide posts like : "Like my status and I will inbox u two names, comment below about those people without mentioning their names. Let the game begin!!!! Pls be honest!!!"
-* Use the keyboard shortcut 
+Hide Facebook news feed posts like: "Like my status and I will inbox u two names, comment below about those people without mentioning their names. Let the game begin!!!! Pls be honest!!!"
+
+* copy-paste content of `hide.js` and paste it in JS developer console of your browser to hide posts.
+
+* Use the following keyboard shortcuts to open developers console:
     
     (Chrome):
     * Command + Option + J (Mac) 
