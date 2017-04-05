@@ -1,5 +1,7 @@
 a = document.querySelectorAll('div._1dwg');
-var check = [/two names/, /inbox/, /be honest/, /honest comments/, /without mentioning their names/, /like my status/];
+
+var check = [/sayat.me/, '/honestly and anonymously/'];
+// var check = [/two names/, /inbox/, /be honest/, /honest comments/, /without mentioning their names/, /like my status/];
 
 for(var i=0; i<a.length;i++)
 {
