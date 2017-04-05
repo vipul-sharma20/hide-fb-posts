@@ -6,6 +6,9 @@ Hide Facebook news feed posts like:
 * "Like my status and I will inbox u two names, comment below about those people without mentioning their names. Let the game begin!!!! Pls be honest!!!"
 * Please tell me what you really think about me, honestly and anonymously https://sayat.me/pretentiousguy
 
+How it works?
+-------------
+
 * copy-paste content of `hide.js` and paste it in JS developer console of your browser to hide posts.
 
 * Use the following keyboard shortcuts to open developers console:
