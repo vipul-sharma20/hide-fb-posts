@@ -3,8 +3,7 @@ hide-posts
 
 Hide Facebook news feed posts like:
 
-* **Please tell me what you really think about me, honestly and anonymously https://sayat.me/pretentiousguy**
-* "Like my status and I will inbox u two names, comment below about those people without mentioning their names. Let the game begin!!!! Pls be honest!!!"
+* **Let's try this http://yolo.sarahahah.com**
 
 How it works?
 -------------
