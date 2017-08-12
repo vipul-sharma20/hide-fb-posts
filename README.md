@@ -3,7 +3,7 @@ hide-posts
 
 Hide Facebook news feed posts like:
 
-* **Let's try this http://yolo.sarahahah.com**
+* **Life is like a *<insert-forced-analogy>* .Let's try this http://yolo.sarahahah.com**
 
 How it works?
 -------------
